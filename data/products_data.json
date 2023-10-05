@@ -1,0 +1,9 @@
+[
+    {"id":1,"title":"Iphone 15", "description":"Super Retina XDR display", "unitprice":134900, "quantity":500, "imageurl":"/images/Iphone_15.png"},
+    {"id":2,"title":"One_Plus_11R", "description":"Processor: Snapdragon 8+ Gen 1", "unitprice":44999, "quantity":500,"imageurl":"/images/One_Plus_11R.jpg"},
+    {"id":3,"title":"One_Plus_CE_3", "description":"Processor: Qualcomm Snapdragon 782G Mobile Platform",  "unitprice":28999,"quantity":500,"imageurl":"/images/One_Plus_CE_3.jpg"},
+    {"id":4,"title":"Realme_Narzo_60", "description":"Processor: Qualcomm", "unitprice":16999, "quantity":1000,"imageurl":"/images/Realme_Narzo_60.jpg"},
+    {"id":5,"title":"Samsung_Galaxy_s22_Ultra", "description":"Processor: Octa-Core", "unitprice":84999, "quantity":500,"imageurl":"/images/Samsung_Galaxy_s22_ultra.jpg"},
+    {"id":6,"title":"Samsung_Galaxy_z_Flip4", "description":"Processor: Qualcomm", "unitprice":49999, "quantity":500,"imageurl":"/images/Samsung_Galaxy_z_flip4.jpg"},
+    {"id":7,"title":"Tecno_Phantom_V_Fold", "description":"Processor: Mediatek", "unitprice":82499, "quantity":500,"imageurl":"/images/Tecno_Phantom_V_Fold"}
+]
